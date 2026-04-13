@@ -29,7 +29,7 @@ http://playtvip.com:8080/live/GwiixD8qoSSKsX/AcZJBelQ94PrwF/1371.m3u8
 http://playtvip.com:8080/live/GwiixD8qoSSKsX/AcZJBelQ94PrwF/32711.m3u8
 #EXTINF:-1  tvg-name="ZED" group-title=“Entertainment” ,ZED
 http://playtvip.com:8080/live/GwiixD8qoSSKsX/AcZJBelQ94PrwF/52447.m3u8
-#EXTINF:-1  tvg-name="ZED Plus" group-title=“Movie” ,ZED Plus
+#EXTINF:-1  tvg-name="ZED Plus" group-title=“Movies” ,ZED Plus
 http://playtvip.com:8080/live/GwiixD8qoSSKsX/AcZJBelQ94PrwF/1433.m3u8
 #EXTINF:-1  tvg-name="Khak" group-title=“Entertainment” ,Khak
 http://playtvip.com:8080/live/GwiixD8qoSSKsX/AcZJBelQ94PrwF/40307.m3u8
@@ -39,7 +39,7 @@ http://playtvip.com:8080/live/GwiixD8qoSSKsX/AcZJBelQ94PrwF/74341.m3u8
 http://playtvip.com:8080/live/GwiixD8qoSSKsX/AcZJBelQ94PrwF/32524.m3u8
 #EXTINF:-1  tvg-name="BMC" group-title=“Movies” ,BMC
 http://playtvip.com:8080/live/GwiixD8qoSSKsX/AcZJBelQ94PrwF/28821.m3u8
-#EXTINF:-1  tvg-name="LD Life" group-title=“Movie” ,LD Life
+#EXTINF:-1  tvg-name="LD Life" group-title=“Movies” ,LD Life
 http://playtvip.com:8080/live/GwiixD8qoSSKsX/AcZJBelQ94PrwF/55272.m3u8
 #EXTINF:-1  tvg-name="Baha" group-title=“Entertainment” ,Baha
 http://playtvip.com:8080/live/GwiixD8qoSSKsX/AcZJBelQ94PrwF/28823.m3u8
@@ -109,7 +109,7 @@ http://playtvip.com:8080/live/GwiixD8qoSSKsX/AcZJBelQ94PrwF/32886.m3u8
 http://playtvip.com:8080/live/GwiixD8qoSSKsX/AcZJBelQ94PrwF/34795.m3u8
 #EXTINF:-1  tvg-name="Esra" group-title=“Islam” ,Esra
 http://playtvip.com:8080/live/GwiixD8qoSSKsX/AcZJBelQ94PrwF/44801.m3u8
-#EXTINF:-1  tvg-name="Esra 2" group-title=“KU|” ,Esra 2
+#EXTINF:-1  tvg-name="Esra 2" group-title=“Islam” ,Esra 2
 http://playtvip.com:8080/live/GwiixD8qoSSKsX/AcZJBelQ94PrwF/62893.m3u8
 #EXTINF:-1  tvg-name="Eman" group-title=“Islam” ,Eman
 http://playtvip.com:8080/live/GwiixD8qoSSKsX/AcZJBelQ94PrwF/34433.m3u8
@@ -149,9 +149,9 @@ http://playtvip.com:8080/live/GwiixD8qoSSKsX/AcZJBelQ94PrwF/35814.m3u8
 http://playtvip.com:8080/live/GwiixD8qoSSKsX/AcZJBelQ94PrwF/46226.m3u8
 #EXTINF:-1  tvg-name="Bask Plus" group-title=“Islam” ,Bask PLus
 http://playtvip.com:8080/live/GwiixD8qoSSKsX/AcZJBelQ94PrwF/76659.m3u8
-#EXTINF:-1  tvg-name="Azadi" group-title=“Movie” ,Azadi
+#EXTINF:-1  tvg-name="Azadi" group-title=“Movies” ,Azadi
 http://playtvip.com:8080/live/GwiixD8qoSSKsX/AcZJBelQ94PrwF/32781.m3u8
-#EXTINF:-1  tvg-name="Avar" group-title=“Movie” ,Avar
+#EXTINF:-1  tvg-name="Avar" group-title=“Movies” ,Avar
 http://playtvip.com:8080/live/GwiixD8qoSSKsX/AcZJBelQ94PrwF/35820.m3u8
 #EXTINF:-1  tvg-name="TRT Kurdi" group-title=“Culture” ,TRT Kurdi
 http://playtvip.com:8080/live/GwiixD8qoSSKsX/AcZJBelQ94PrwF/28843.m3u8
@@ -207,35 +207,35 @@ http://playtvip.com:8080/live/GwiixD8qoSSKsX/AcZJBelQ94PrwF/32521.m3u8
 http://playtvip.com:8080/live/GwiixD8qoSSKsX/AcZJBelQ94PrwF/32560.m3u8
 #EXTINF:-1  tvg-name="Kanal 21" group-title=“Entertainment” ,Kanal 21
 http://playtvip.com:8080/live/GwiixD8qoSSKsX/AcZJBelQ94PrwF/44815.m3u8
-#EXTINF:-1  tvg-name="RED" group-title=“Movie” ,RED
+#EXTINF:-1  tvg-name="RED" group-title=“Movies” ,RED
 http://playtvip.com:8080/live/GwiixD8qoSSKsX/AcZJBelQ94PrwF/48434.m3u8
-#EXTINF:-1  tvg-name="Kurdcinema" group-title=“Movie” ,Kurdcinema
+#EXTINF:-1  tvg-name="Kurdcinema" group-title=“Movies” ,Kurdcinema
 http://playtvip.com:8080/live/GwiixD8qoSSKsX/AcZJBelQ94PrwF/28822.m3u8
-#EXTINF:-1  tvg-name="Kurdmovie" group-title=“Kurdmovie” ,Kurdmovie
+#EXTINF:-1  tvg-name="Kurdmovie" group-title=“Movies” ,Kurdmovie
 http://playtvip.com:8080/live/GwiixD8qoSSKsX/AcZJBelQ94PrwF/32772.m3u8
-#EXTINF:-1  tvg-name="Barin Action" group-title=“Movie” ,Barin Action
+#EXTINF:-1  tvg-name="Barin Action" group-title=“Movies” ,Barin Action
 http://playtvip.com:8080/live/GwiixD8qoSSKsX/AcZJBelQ94PrwF/1426.m3u8
-#EXTINF:-1  tvg-name="Bnar Action" group-title=“Movie” ,Bnar Action
+#EXTINF:-1  tvg-name="Bnar Action" group-title=“Movies” ,Bnar Action
 http://playtvip.com:8080/live/GwiixD8qoSSKsX/AcZJBelQ94PrwF/32708.m3u8
-#EXTINF:-1  tvg-name="Niga Movies" group-title=“Movie” ,Niga Movies
+#EXTINF:-1  tvg-name="Niga Movies" group-title=“Movies” ,Niga Movies
 http://playtvip.com:8080/live/GwiixD8qoSSKsX/AcZJBelQ94PrwF/1627.m3u8
 #EXTINF:-1  tvg-name="Astera Movies" group-title=“Movies” ,Astera Movies
 http://playtvip.com:8080/live/GwiixD8qoSSKsX/AcZJBelQ94PrwF/32772.m3u8
-#EXTINF:-1  tvg-name="Newline 1" group-title=“Movie” ,Newline 1
+#EXTINF:-1  tvg-name="Newline 1" group-title=“Movies” ,Newline 1
 http://playtvip.com:8080/live/GwiixD8qoSSKsX/AcZJBelQ94PrwF/1617.m3u8
-#EXTINF:-1  tvg-name="Newline 2" group-title=“Movie” ,Newline 2
+#EXTINF:-1  tvg-name="Newline 2" group-title=“Movies” ,Newline 2
 http://playtvip.com:8080/live/GwiixD8qoSSKsX/AcZJBelQ94PrwF/1618.m3u8
-#EXTINF:-1  tvg-name="Newline Movie" group-title=“Movie” ,Newline Movie
+#EXTINF:-1  tvg-name="Newline Movie" group-title=“Movies” ,Newline Movie
 http://playtvip.com:8080/live/GwiixD8qoSSKsX/AcZJBelQ94PrwF/28819.m3u8
-#EXTINF:-1  tvg-name="Newline Drama" group-title=“Movie” ,Newline Drama
+#EXTINF:-1  tvg-name="Newline Drama" group-title=“Movies” ,Newline Drama
 http://playtvip.com:8080/live/GwiixD8qoSSKsX/AcZJBelQ94PrwF/34426.m3u8
-#EXTINF:-1  tvg-name="Newline Bollywood" group-title=“Movie” ,Newline Bollywood
+#EXTINF:-1  tvg-name="Newline Bollywood" group-title=“Movies” ,Newline Bollywood
 http://playtvip.com:8080/live/GwiixD8qoSSKsX/AcZJBelQ94PrwF/1430.m3u8
-#EXTINF:-1  tvg-name="MMN Show" group-title=“Movie” ,MMN Show
+#EXTINF:-1  tvg-name="MMN Show" group-title=“Movies” ,MMN Show
 http://playtvip.com:8080/live/GwiixD8qoSSKsX/AcZJBelQ94PrwF/32513.m3u8
-#EXTINF:-1  tvg-name="MMN Action" group-title=“Movie” ,MMN Action
+#EXTINF:-1  tvg-name="MMN Action" group-title=“Movies” ,MMN Action
 http://playtvip.com:8080/live/GwiixD8qoSSKsX/AcZJBelQ94PrwF/55240.m3u8
-#EXTINF:-1  tvg-name="MMN Movies" group-title=“Movie” ,MMN Movies
+#EXTINF:-1  tvg-name="MMN Movies" group-title=“Movies” ,MMN Movies
 http://playtvip.com:8080/live/GwiixD8qoSSKsX/AcZJBelQ94PrwF/32515.m3u8
 #EXTINF:-1  tvg-name="NRT Sport" group-title=“Sport” ,NRT Sport
 http://playtvip.com:8080/live/GwiixD8qoSSKsX/AcZJBelQ94PrwF/70836.m3u8
