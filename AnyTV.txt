@@ -1,0 +1,307 @@
+#EXTM3U
+#EXTINF:0 CUID="8519" tvg-name="Kurdsat" group-title="Kurdish ",Kurdsat
+http://89.42.231.87:8080/hlsr/bfbfH.fbcby.X.UbdHU.yczHbdcU.X.y.IQ.m3u8.2ffe0b8d8fe3ce2f90cf73d50426b51b9ac28e85ff054050e8a7c29e7f1d3169/GwiixD8qoSSKsX/AcZJBelQ94PrwF/32914/6e54a2abc4219bb0471784b062472583/32914_809.ts
+#EXTINF:0 CUID="8519" tvg-name="Kurdsat News" group-title="Kurdish ",Kurdsat News
+http://89.42.231.87:8080/hlsr/bfbfH.yyccz.X.UbUcf.yczHbdcU.X.y.IQ.m3u8.1bf6298a6a28a28b2c2e5149a23b41edbb7dd116b22d7a44720133efd1ef0a75/GwiixD8qoSSKsX/AcZJBelQ94PrwF/32693/624517e9e5bfc4e7985d570a7aad935f/32693_6087.ts
+#EXTINF:0 CUID="8519" tvg-name="Channel 8" group-title="Kurdish ",Channel 8
+http://45.139.122.203:8080/hlsr/bfbfH.Hcfazd.X.ayUUUHd.yczHbdcU.X.y.IQ.m3u8.e10f56a5dbe2a813d70a250200503ae4b643cb3f25686bfa93113a05f6e8b16b/GwiixD8qoSSKsX/AcZJBelQ94PrwF/57115/1f7024786849d818e638283e91448610/57115_7223.ts
+#EXTINF:0 CUID="8519" tvg-name="Rudaw" group-title="Kurdish ",Rudaw
+http://89.42.231.87:8080/hlsr/bfbfH.yfUzy.X.yfbff.yczHbdcU.X.y.IQ.m3u8.16bbc0b24c2c461896028804d7d93cba9706bad47c0ffca4c2eb467294a84cf4/GwiixD8qoSSKsX/AcZJBelQ94PrwF/63288/e12d5da9e651b95f2fa2b9dcbe74687e/63288_3706.ts
+#EXTINF:0 CUID="8519" tvg-name="K24" group-title="Kurdish ",K24
+http://89.42.231.87:8080/hlsr/bfbfH.fcUyX.X.dcyb.yczHbdcU.X.y.IQ.m3u8.c487a88b18a30ba8d92e0703b6047db73a573b57c4e0393287a3bf03738fadd3/GwiixD8qoSSKsX/AcZJBelQ94PrwF/1372/7437c4623c66e41ae57589d79502d192/1372_3489.ts
+#EXTINF:0 CUID="8519" tvg-name="K24 Documentary" group-title="Kurdish ",K24 Documentary
+http://89.42.231.87:8080/hlsr/bfbfH.UXHaz.X.UcHcU.yczHbdcU.X.y.IQ.m3u8.ae08816f575083a93c1d1504a87bce14d0b8b94b5b0c0b472ad343ad43a1ac29/GwiixD8qoSSKsX/AcZJBelQ94PrwF/28817/1f8f7f277b995cfdc02065f7bab29616/28817_3046.ts
+#EXTINF:0 CUID="8519" tvg-name="AVA Media" group-title="Kurdish ",AVA Media
+http://89.42.231.87:8080/hlsr/bfbfH.bUadU.X.UHdcy.yczHbdcU.X.y.IQ.m3u8.62031c9f8ad12cb8f64786ebbb0b503085813ab6ccc00965cb00bab0f7169a46/GwiixD8qoSSKsX/AcZJBelQ94PrwF/72048/57995d23ffb0cd2bc05d98a89290a8fd/72048_6062.ts
+#EXTINF:0 CUID="8519" tvg-name="NRT" group-title="Kurdish ",NRT
+http://89.42.231.87:8080/hlsr/bfbfH.ayccH.X.cdcHc.yczHbdcU.X.y.IQ.m3u8.5d9da398c7cf91781b3174fefbf635254a90aca323f5ea0bbaf385957fab8671/GwiixD8qoSSKsX/AcZJBelQ94PrwF/52792/c066767541b683e3167aa69ae737619b/52792_4938.ts
+#EXTINF:0 CUID="8519" tvg-name="NRT2" group-title="Kurdish ",NRT2
+http://89.42.231.87:8080/hlsr/bfbfH.cffUd.X.fybaX.yczHbdcU.X.y.IQ.m3u8.6d1fa10a7c353f076ae8be4f6864a57c3e1f3f67c2c8e33061c5ad0a941b3cb8/GwiixD8qoSSKsX/AcZJBelQ94PrwF/28825/6ee0ff3f08c0582bf1b67a716c023669/28825_7735.ts
+#EXTINF:0 CUID="8519" tvg-name="Payam" group-title="Kurdish ",Payam
+http://89.42.231.87:8080/hlsr/bfbfH.Ucczb.X.aUbdU.yczHbdcU.X.y.IQ.m3u8.6e079a090f8d94f289c8be9b8c7b8405e5d8ed924477da85d191230a363ff363/GwiixD8qoSSKsX/AcZJBelQ94PrwF/1646/f2c61d7750ac5cff3094acc57dd67a52/1646_2722.ts
+#EXTINF:0 CUID="8519" tvg-name="Speda" group-title="Kurdish ",Speda
+http://89.42.231.87:8080/hlsr/bfbfH.aczfy.X.baacf.yczHbdcU.X.y.IQ.m3u8.8c0cae9e43584c1e0a99f1f0dc03dbf4febf6c341bfeaa09385d2c4e7e5ddef2/GwiixD8qoSSKsX/AcZJBelQ94PrwF/28774/2c0e23c9af9555676983e2d5a8d5ee65/28774_3057.ts
+#EXTINF:0 CUID="8519" tvg-name="Speda Drama" group-title="Kurdish ",Speda Drama
+http://89.42.231.87:8080/hlsr/bfbfH.ydddf.X.UfbdX.yczHbdcU.X.y.IQ.m3u8.beb894990ed36cc30291ef8ac26e465a0abc6e48c86b4332cfd06e450c068a95/GwiixD8qoSSKsX/AcZJBelQ94PrwF/1428/c676f8861206361fc5a5d1f57bc84a7b/1428_7721.ts
+#EXTINF:0 CUID="8519" tvg-name="Gali Kurdistan" group-title="Kurdish ",Gali Kurdistan
+http://89.42.231.87:8080/hlsr/bfbfH.UbybH.X.UXbyU.yczHbdcU.X.y.IQ.m3u8.00d1b6b811289ba37e83063451cc846a90daf01922d22838661e026c96de6adb/GwiixD8qoSSKsX/AcZJBelQ94PrwF/1371/2f4143288d8c9ed0eb92877187d83bd0/1371_2320.ts
+#EXTINF:0 CUID="8519" tvg-name="Kirkuk" group-title="Kurdish ",Kirkuk
+http://89.42.231.87:8080/hlsr/bfbfH.zfca.X.Ubcbz.yczHbdcU.X.y.IQ.m3u8.da49b67fc1f072db68efc1fbd1d46626134855785c20a1917207a99b2e4f2b03/GwiixD8qoSSKsX/AcZJBelQ94PrwF/32711/a467be456ed18cb34f847b2328cf881d/32711_2027.ts
+#EXTINF:0 CUID="8519" tvg-name="ZED" group-title="Kurdish ",ZED
+http://89.42.231.87:8080/hlsr/bfbfH.ccXfb.X.UdHyy.yczHbdcU.X.y.IQ.m3u8.cceb3f2e2a90d6202cdff3dae16ffe49fa0fbe4af8d57ed6b61facaeffb206a6/GwiixD8qoSSKsX/AcZJBelQ94PrwF/52447/ede11919fc9e9a6027ae4d91cbd9b372/52447_855.ts
+#EXTINF:0 CUID="8519" tvg-name="ZED Plus" group-title="Kurdish ",ZED Plus
+http://89.42.231.87:8080/hlsr/bfbfH.fybdf.X.Ucfda.yczHbdcU.X.y.IQ.m3u8.c703466ecc353b35f9a042813cdc0abdb66b223c2aa2d087731c1ca02e377bca/GwiixD8qoSSKsX/AcZJBelQ94PrwF/1433/7853eef0b107d031fddb49022ac01b47/1433_126.ts
+#EXTINF:0 CUID="8519" tvg-name="Khak" group-title="Kurdish ",Khak
+http://89.42.231.87:8080/hlsr/bfbfH.cUdHc.X.UdafH.yczHbdcU.X.y.IQ.m3u8.ea100b7761f6499986a3ac2b1475ac366f3403bf9780ac5a2a63d2e423078b8c/GwiixD8qoSSKsX/AcZJBelQ94PrwF/40307/497acf110e56e2462bf036c35315cc20/40307_9184.ts
+#EXTINF:0 CUID="8519" tvg-name="Waar" group-title="Kurdish ",Waar
+http://89.42.231.87:8080/hlsr/bfbfH.fcHXf.X.UHcXc.yczHbdcU.X.y.IQ.m3u8.d30f03f0f6546a9b5a8b8918e3e65a4bf523115139ce349c1e03ae11092ac1d3/GwiixD8qoSSKsX/AcZJBelQ94PrwF/74341/eb3fdf38b55540581a4875f7170fed94/74341_7770.ts
+#EXTINF:0 CUID="8519" tvg-name="Qallam" group-title="Kurdish ",Qallam
+http://89.42.231.87:8080/hlsr/bfbfH.Ufcaz.X.Ubfyy.yczHbdcU.X.y.IQ.m3u8.590f564a543d21600b80d4c73fb6b7eb03c905ca8357c1ed559ad4845a6bc2b6/GwiixD8qoSSKsX/AcZJBelQ94PrwF/32524/df344434afa121c988dc8439d0990901/32524_2944.ts
+#EXTINF:0 CUID="8519" tvg-name="BMC" group-title="Kurdish ",BMC
+http://89.42.231.87:8080/hlsr/bfbfH.acfz.X.UcHzf.yczHbdcU.X.y.IQ.m3u8.1c08d13c76fd845e94d53792f46d0add21df32482efaf8896c647d6b667602c8/GwiixD8qoSSKsX/AcZJBelQ94PrwF/28821/2445ccc8c1cc27861c09f34a1c2a8f7a/28821_8057.ts
+#EXTINF:0 CUID="8519" tvg-name="Baha" group-title="Kurdish ",Baha
+http://89.42.231.87:8080/hlsr/bfbfH.aHXzU.X.Uczfy.yczHbdcU.X.y.IQ.m3u8.130027ea37d3c05b87de3164f282e1dfda6d8c76269fe6242a1ed3c45b0c5703/GwiixD8qoSSKsX/AcZJBelQ94PrwF/28823/ff2e75624866b257ff5b388c571d493f/28823_5.ts
+#EXTINF:0 CUID="8519" tvg-name="Soran" group-title="Kurdish ",Soran
+http://89.42.231.87:8080/hlsr/bfbfH.cafcd.X.UdUcX.yczHbdcU.X.y.IQ.m3u8.8fa404390df1b6081d35067bbedf2748e5c5077d15b7756d3e44c305ae5fbd5e/GwiixD8qoSSKsX/AcZJBelQ94PrwF/44816/afef1ea09c4e237fbf221c631ef7a908/44816_553.ts
+#EXTINF:0 CUID="8519" tvg-name="Parwarda" group-title="Kurdish ",Parwarda
+http://89.42.231.87:8080/hlsr/bfbfH.bXUfU.X.fUafy.yczHbdcU.X.y.IQ.m3u8.8231153981d0190822dcacc75d8eb4f3861efd0da3251b050ab26d138196d9a7/GwiixD8qoSSKsX/AcZJBelQ94PrwF/78047/1ee0e90e85489d76be1f55c59fe971b6/78047_1835.ts
+#EXTINF:0 CUID="8519" tvg-name="XYZ" group-title="Kurdish ",XYZ
+http://89.42.231.87:8080/hlsr/bfbfH.UXyzU.X.HzcU.yczHbdcU.X.y.IQ.m3u8.e24fb9b8650fe88f2c249a8f5299d1a467d02e5e5037ca3594a7e7eb7d026580/GwiixD8qoSSKsX/AcZJBelQ94PrwF/76820/966e0659fbaee34193cd88bc835fdafd/76820_218.ts
+#EXTINF:0 CUID="8519" tvg-name="Kurdistan" group-title="Kurdish ",Kurdistan
+http://89.42.231.87:8080/hlsr/bfbfH.UabyX.X.UUzza.yczHbdcU.X.y.IQ.m3u8.1855638298b7c04859b859802086af58196c2238b4129dad1197a09dc3a0ebe7/GwiixD8qoSSKsX/AcZJBelQ94PrwF/1369/63cfc6f0e0a655aaca1a8e695e3299b1/1369_2677.ts
+#EXTINF:0 CUID="8519" tvg-name="Zagros" group-title="Kurdish ",Zagros
+http://89.42.231.87:8080/hlsr/bfbfH.aXXUf.X.aHHXX.yczHbdcU.X.y.IQ.m3u8.844b8e264f62ac191930d44249d912f4f18796024367f3bc5915a1ed9e6efa29/GwiixD8qoSSKsX/AcZJBelQ94PrwF/28773/5f397eb4087e5d5aff0b94c3bf874c83/28773_4010.ts
+#EXTINF:0 CUID="8519" tvg-name="Jamawar" group-title="Kurdish ",Jamawar
+http://89.42.231.87:8080/hlsr/bfbfH.Ufyb.X.UbHya.yczHbdcU.X.y.IQ.m3u8.3d1f4ec3c0079c368605d7f4e542c990bddc90c11b6258d2b2d6de411a5b2c6d/GwiixD8qoSSKsX/AcZJBelQ94PrwF/33027/6ced6ee3b053122a8a394351f4b19020/33027_288.ts
+#EXTINF:0 CUID="8519" tvg-name="MMN News" group-title="Kurdish ",MMN News
+http://89.42.231.87:8080/hlsr/bfbfH.aayHa.X.UbyUd.yczHbdcU.X.y.IQ.m3u8.78f7be7d6aeb5a647af9d332b879a76dbbbfcb6e063bd123b1bcd5c860a0291c/GwiixD8qoSSKsX/AcZJBelQ94PrwF/32514/3ac1c05b9d299a22877a43e9cf623303/32514_6380.ts
+#EXTINF:0 CUID="8519" tvg-name="KurdMax" group-title="Kurdish ",KurdMax
+http://89.42.231.87:8080/hlsr/bfbfH.fXddd.X.UcUyf.yczHbdcU.X.y.IQ.m3u8.d69f85beafc4f8410ea9bb0731b8c868e4e08dadd08dcd8ee624f3b4368bead5/GwiixD8qoSSKsX/AcZJBelQ94PrwF/1435/fb1cea64b5d10ec6d83f011634e39393/1435_7644.ts
+#EXTINF:0 CUID="8519" tvg-name="KurdMax Show" group-title="Kurdish ",KurdMax Show
+http://89.42.231.87:8080/hlsr/bfbfH.fcHaf.X.UczUa.yczHbdcU.X.y.IQ.m3u8.d6194b83052c71bc7e2e9db42d0af9c73998779e923e34b818e42518e9a459b1/GwiixD8qoSSKsX/AcZJBelQ94PrwF/28824/4b0bedbd6c45b5a399615718302221bf/28824_7722.ts
+#EXTINF:0 CUID="8519" tvg-name="KurdMax Music" group-title="Kurdish ",KurdMax Music
+http://89.42.231.87:8080/hlsr/bfbfH.UUdcy.X.UdXbc.yczHbdcU.X.y.IQ.m3u8.d82d5871c303f2f87a37af2515479d275d8e671b8255c1a712aaabf490c64da6/GwiixD8qoSSKsX/AcZJBelQ94PrwF/34772/5f413ee56811786a7c03103f7fa531e8/34772_1987.ts
+#EXTINF:0 CUID="8519" tvg-name="4Kurd" group-title="Kurdish ",4Kurd
+http://89.42.231.87:8080/hlsr/bfbfH.fdHdU.X.UbcUb.yczHbdcU.X.y.IQ.m3u8.3a816c4ba20c7256bf26b517f0ad698f609da04a955a777da969848e9059c8e3/GwiixD8qoSSKsX/AcZJBelQ94PrwF/32710/331d3298e92d6d87bc182ea7a3256859/32710_3488.ts
+#EXTINF:0 CUID="8519" tvg-name="Sima" group-title="Kurdish ",Sima
+http://89.42.231.87:8080/hlsr/bfbfH.fzyy.X.UHUca.yczHbdcU.X.y.IQ.m3u8.828bc1088b9b8bdd218ab5b8b7f49fcd389cec269a3fc83925534ca4374cf0ba/GwiixD8qoSSKsX/AcZJBelQ94PrwF/71648/e405d39e04158e5815e4de98614bb2aa/71648_1677.ts
+#EXTINF:0 CUID="8519" tvg-name="MMN Clip" group-title="Kurdish ",MMN Clip
+http://89.42.231.87:8080/hlsr/bfbfH.bfXba.X.Udffb.yczHbdcU.X.y.IQ.m3u8.0e6dff9fab3b32c8f37045a8bc90c53ab6cf11aa2ca8236c649e6eee56d78e73/GwiixD8qoSSKsX/AcZJBelQ94PrwF/41709/820b68c1bde2b1ca0af86397e262ef5d/41709_7063.ts
+#EXTINF:0 CUID="8519" tvg-name="Darwaza Music" group-title="Kurdish ",Darwaza Music
+http://89.42.231.87:8080/hlsr/bfbfH.aHfza.X.UXfcd.yczHbdcU.X.y.IQ.m3u8.b97e85e699e3d79e41cf3a26e3cbae491933a115871ea487dbe3985c9ea9446c/GwiixD8qoSSKsX/AcZJBelQ94PrwF/55237/9ad8a5af9d66a792a73acafea8fea2e2/55237_8503.ts
+#EXTINF:0 CUID="8519" tvg-name="Dasinya" group-title="Kurdish ",Dasinya
+http://89.42.231.87:8080/hlsr/bfbfH.yyXcz.X.UdbcH.yczHbdcU.X.y.IQ.m3u8.290c61cfde4502aa8a87dac3f8c5955d2fb4db0729321614b0754c1c573d3323/GwiixD8qoSSKsX/AcZJBelQ94PrwF/46233/130c5720aad9bee772912a0047354081/46233_8202.ts
+#EXTINF:0 CUID="8519" tvg-name="Effect" group-title="Kurdish ",Effect
+http://89.42.231.87:8080/hlsr/bfbfH.fzXyU.X.UbzdH.yczHbdcU.X.y.IQ.m3u8.55d73a15abe3cfe37be7c41953f72634d1a64e97a8d2273778331c00cbd408e0/GwiixD8qoSSKsX/AcZJBelQ94PrwF/34429/2ee53038098e30c3353ed04b20b40637/34429_1140.ts
+#EXTINF:0 CUID="8519" tvg-name="MMN Persia" group-title="Kurdish ",MMN Persia
+http://89.42.231.87:8080/hlsr/bfbfH.UzdXH.X.UdabU.yczHbdcU.X.y.IQ.m3u8.759035ef767a16e5991e3df02834ce8e5ced5cfdbc1445171ee6f14ca53062b5/GwiixD8qoSSKsX/AcZJBelQ94PrwF/40314/a7349d6a5a690f9345e66a51a6791542/40314_2912.ts
+#EXTINF:0 CUID="8519" tvg-name="NRT 4" group-title="Kurdish ",NRT 4
+http://89.42.231.87:8080/hlsr/bfbfH.fbUyd.X.UbUUU.yczHbdcU.X.y.IQ.m3u8.6c2dea19cf0835ce75aa97748b6040f6800b130ec4e58d909702975fd7bd37bc/GwiixD8qoSSKsX/AcZJBelQ94PrwF/32692/26dd534c16baf08a005c36d141fb9736/32692_5658.ts
+#EXTINF:0 CUID="8519" tvg-name="Qallam Ayini" group-title="Kurdish ",Qallam Ayini
+http://89.42.231.87:8080/hlsr/bfbfH.yzUyX.X.Ubafa.yczHbdcU.X.y.IQ.m3u8.1becc7281b4edc38a6bdad6905f0a8a4764633d8b31e89cd6c0794b0caded935/GwiixD8qoSSKsX/AcZJBelQ94PrwF/32520/a7e5e9a16d2a79bb097bbd5afe011838/32520_7768.ts
+#EXTINF:0 CUID="8519" tvg-name="Sada" group-title="Kurdish ",Sada
+http://89.42.231.87:8080/hlsr/bfbfH.fUUcz.X.UbXyz.yczHbdcU.X.y.IQ.m3u8.cde195f461009a5964f5882fc004d932f736915ce197878d9040a79920794780/GwiixD8qoSSKsX/AcZJBelQ94PrwF/28831/0500c54bacaca6fb175a8e2fcf116327/28831_4623.ts
+#EXTINF:0 CUID="8519" tvg-name="Mihrab" group-title="Kurdish ",Mihrab 
+http://89.42.231.87:8080/hlsr/bfbfH.yXXbz.X.UadUd.yczHbdcU.X.y.IQ.m3u8.2b6eb1679874608119ee5ff5256490627af5116904c18ea6b591186bcbe382c3/GwiixD8qoSSKsX/AcZJBelQ94PrwF/44798/50601b81144f97a200d211f2ec864197/44798_8657.ts
+#EXTINF:0 CUID="8519" tvg-name="Mihrab Radio" group-title="Kurdish ",Mihrab Radio
+http://89.42.231.87:8080/hlsr/bfbfH.ydyXf.X.UddHc.yczHbdcU.X.y.IQ.m3u8.ccc456580b9e79d67d71b44634794b2da42aa5101d56ece0bc9091ed9b1ddc20/GwiixD8qoSSKsX/AcZJBelQ94PrwF/51769/1eef72a7b7806e0eabaf19e75409f8b2/51769_2295.ts
+#EXTINF:0 CUID="8519" tvg-name="Bangawaz" group-title="Kurdish ",Bangawaz
+http://89.42.231.87:8080/hlsr/bfbfH.zHfb.X.UbbbH.yczHbdcU.X.y.IQ.m3u8.435c7c263b05694b031a4760a159b8920347cd3d23a360845bb829a1172c7663/GwiixD8qoSSKsX/AcZJBelQ94PrwF/32775/4f8865f36fe49bb57f5f626ba5e10abf/32775_1861.ts
+#EXTINF:0 CUID="8519" tvg-name="Judi" group-title="Kurdish ",Judi
+http://89.42.231.87:8080/hlsr/bfbfH.UzcHd.X.Ubddf.yczHbdcU.X.y.IQ.m3u8.998a3e3e191d9e6e90fbd48af0995af86081d1fc358d767abb17eeb68fbfcaed/GwiixD8qoSSKsX/AcZJBelQ94PrwF/32887/02ade1bf9b91e54fac69c50ba1eede94/32887_3225.ts
+#EXTINF:0 CUID="8519" tvg-name="Shar" group-title="Kurdish ",Shar
+http://89.42.231.87:8080/hlsr/bfbfH.aXHzU.X.Ubzzf.yczHbdcU.X.y.IQ.m3u8.3d9e0faa07e52c357ce029e50392774fab2f122333c54ce0861b22e694a89bfc/GwiixD8qoSSKsX/AcZJBelQ94PrwF/34432/9a288fbc5d0b53b086df8812aacb539b/34432_7935.ts
+#EXTINF:0 CUID="8519" tvg-name="Nergz" group-title="Kurdish ",Nergz
+http://89.42.231.87:8080/hlsr/bfbfH.Udfyc.X.yybcb.yczHbdcU.X.y.IQ.m3u8.75e0c868609106221519cb7e03d330107fa40c2faf006e068b58aa7d0f78f240/GwiixD8qoSSKsX/AcZJBelQ94PrwF/75632/65b132b8c188fe649360d7f5701d4f04/75632_5835.ts
+#EXTINF:0 CUID="8519" tvg-name="Amozhgary" group-title="Kurdish ",Amozhgary
+http://89.42.231.87:8080/hlsr/bfbfH.yfUyU.X.UbdaU.yczHbdcU.X.y.IQ.m3u8.d0120d020f3600f39494e3d094cbe11d7d42a540bbfdb30b1980156d0a4bc8aa/GwiixD8qoSSKsX/AcZJBelQ94PrwF/32783/1ca8b228d30f96f0b543559ad24c4b9f/32783_8141.ts
+#EXTINF:0 CUID="8519" tvg-name="Komal" group-title="Kurdish ",Komal
+http://89.42.231.87:8080/hlsr/bfbfH.bUHbd.X.UcXHU.yczHbdcU.X.y.IQ.m3u8.99d5e477066895435ffaa1edecddeb71ada78d867346fa8f5375d5498c53c471/GwiixD8qoSSKsX/AcZJBelQ94PrwF/1398/fc2ea9ca3ea5e8b115d0d2ebbe8f3277/1398_3237.ts
+#EXTINF:0 CUID="8519" tvg-name="UTV" group-title="Kurdish ",UTV
+http://89.42.231.87:8080/hlsr/bfbfH.UzyzH.X.UcdXH.yczHbdcU.X.y.IQ.m3u8.c357d66402d962e74955b1048af82ce9e40a043856e1ca20d9c01a30576268f5/GwiixD8qoSSKsX/AcZJBelQ94PrwF/9799/4a00c3f04e80d4995abe1b03e173d5cc/9799_3689.ts
+#EXTINF:0 CUID="8519" tvg-name="UTV 2" group-title="Kurdish ",UTV 2
+http://89.42.231.87:8080/hlsr/bfbfH.czddf.X.Ubdba.yczHbdcU.X.y.IQ.m3u8.1c1327b8b7e75e1a251212b68753f71d0ba4fdecb47ed59a28294c38fd228e15/GwiixD8qoSSKsX/AcZJBelQ94PrwF/32886/9b58f3295947e34aa1c115e27c5f2509/32886_3357.ts
+#EXTINF:0 CUID="8519" tvg-name="UTV Hawler" group-title="Kurdish ",UTV Hawler
+http://89.42.231.87:8080/hlsr/bfbfH.UfafX.X.Ubdcf.yczHbdcU.X.y.IQ.m3u8.f0a90d4c1848cd8d27c2f910b87fa0c576ad7328e3af53752c32d8785f81f9b7/GwiixD8qoSSKsX/AcZJBelQ94PrwF/32885/88f3d1efde594243c12055f88eefe7fe/32885_3362.ts
+#EXTINF:0 CUID="8519" tvg-name="Walla" group-title="Kurdish ",Walla
+http://89.42.231.87:8080/hlsr/bfbfH.abfa.X.UdXHc.yczHbdcU.X.y.IQ.m3u8.07670e71b43f25d1a02babfcaa2126f3cf364a8c040f218df144e84ed308efd6/GwiixD8qoSSKsX/AcZJBelQ94PrwF/34795/d6a17e89a36b3cdcd7e0e37d1ca12ad3/34795_58.ts
+#EXTINF:0 CUID="8519" tvg-name="Esra" group-title="Kurdish ",Esra
+http://89.42.231.87:8080/hlsr/bfbfH.ycdcc.X.UdUXX.yczHbdcU.X.y.IQ.m3u8.5ac8a6174e5565db3a0e03be21cc77320310807f30ecb6dd71f24064e12efec1/GwiixD8qoSSKsX/AcZJBelQ94PrwF/44801/d5be4c4ba95d6b3f02ca7b90d0d9b257/44801_769.ts
+#EXTINF:0 CUID="8519" tvg-name="Esra 2" group-title="Kurdish ",Esra 2
+http://89.42.231.87:8080/hlsr/bfbfH.fUHca.X.aUzab.yczHbdcU.X.y.IQ.m3u8.21d39f804f3cda3e768d9e751b103e986f8fa291cad2100253b5fb608f0a0171/GwiixD8qoSSKsX/AcZJBelQ94PrwF/62893/32232670a7abab61d2d3bcc093450184/62893_877.ts
+#EXTINF:0 CUID="8519" tvg-name="Eman" group-title="Kurdish ",Eman
+http://89.42.231.87:8080/hlsr/bfbfH.yHbHU.X.UdXXf.yczHbdcU.X.y.IQ.m3u8.33c0e6b64a14e18e1baf4d664c0e8b30b25b169030e5015724d99c2e263e88ef/GwiixD8qoSSKsX/AcZJBelQ94PrwF/34433/41443dfc763071d6b3a321eb340ec1bd/34433_3794.ts
+#EXTINF:0 CUID="8519" tvg-name="Naqshi" group-title="Kurdish ",Naqshi
+http://89.42.231.87:8080/hlsr/bfbfH.yHcda.X.UHXdb.yczHbdcU.X.y.IQ.m3u8.9d2b794d22009895b51fcd3723fdd85977e59a2318ded05cca440d303c1e96d0/GwiixD8qoSSKsX/AcZJBelQ94PrwF/62867/2a6d0f1c360dbd5ee224248affd9b6ba/62867_768.ts
+#EXTINF:0 CUID="8519" tvg-name="Tasawf" group-title="Kurdish ",Tasawf
+http://89.42.231.87:8080/hlsr/bfbfH.UUdb.X.UcHfH.yczHbdcU.X.y.IQ.m3u8.fbc967eab4f80af761f8c7e22331ec352d0e44255deac1a43a0b87e6f2abf0fd/GwiixD8qoSSKsX/AcZJBelQ94PrwF/28816/7be2fbb695c022eb78ed61e786300e05/28816_3337.ts
+#EXTINF:0 CUID="8519" tvg-name="LD Life" group-title="Kurdish ",LD Life
+http://89.42.231.87:8080/hlsr/bfbfH.byHdU.X.UdzUU.yczHbdcU.X.y.IQ.m3u8.510babac452f099c89bc43424e3b07399f4ee4e3bc09cc2feab3f05fd684cf94/GwiixD8qoSSKsX/AcZJBelQ94PrwF/55272/fa56ce3c7dd58b7dbd2c2fb18707a645/55272_1641.ts
+#EXTINF:0 CUID="8519" tvg-name="Ashti" group-title="Kurdish ",Ashti
+http://89.42.231.87:8080/hlsr/bfbfH.abUd.X.UbzXy.yczHbdcU.X.y.IQ.m3u8.c331515aff83a66de2acc9a05eb2ab61b5a1fbe6f82435deb3cb9f06b9b7af8d/GwiixD8qoSSKsX/AcZJBelQ94PrwF/34423/3e53f51b918f845efd80bcef21f2bffd/34423_7875.ts
+#EXTINF:0 CUID="8519" tvg-name="Dunya" group-title="Kurdish ",Dunya
+http://89.42.231.87:8080/hlsr/bfbfH.fayy.X.UcdfH.yczHbdcU.X.y.IQ.m3u8.d6eb0f8f1c7ca6d04133709439917b69de527dbec1d33bafbb52fefc23c1e550/GwiixD8qoSSKsX/AcZJBelQ94PrwF/9804/bddc3853d61fcd57e302565ac2ea692a/9804_443.ts
+#EXTINF:0 CUID="8519" tvg-name="Farmuda" group-title="Kurdish ",Farmuda
+http://89.42.231.87:8080/hlsr/bfbfH.aycay.X.UbHbf.yczHbdcU.X.y.IQ.m3u8.28a4c2a32b57df8eac0f008b17b8efbdc350ace13950598116f619266b237b7e/GwiixD8qoSSKsX/AcZJBelQ94PrwF/34420/066a76314a55bf2e700058991201abf6/34420_3797.ts
+#EXTINF:0 CUID="8519" tvg-name="Noor" group-title="Kurdish ",Noor
+http://89.42.231.87:8080/hlsr/bfbfH.UXzXU.X.UXHfa.yczHbdcU.X.y.IQ.m3u8.14766fc8844c116eadb9b413a2e2be640de2467aa7c1eddc280fc01f6c2be0af/GwiixD8qoSSKsX/AcZJBelQ94PrwF/28829/e5589c1b2746aae7708b8127a4663a26/28829_3336.ts
+#EXTINF:0 CUID="8519" tvg-name="MMN Quran" group-title="Kurdish ",MMN Quran
+http://89.42.231.87:8080/hlsr/bfbfH.aUbfU.X.UbaXb.yczHbdcU.X.y.IQ.m3u8.919ed6da6328999ee7371646e5db805063bb0cd5cc8530d3e89ee528442ff120/GwiixD8qoSSKsX/AcZJBelQ94PrwF/32519/e970fbd39289eb5860b1e98b232ac8f9/32519_7608.ts
+#EXTINF:0 CUID="8519" tvg-name="IMK Quran" group-title="Kurdish ",IMK Quran
+http://89.42.231.87:8080/hlsr/bfbfH.aczzy.X.UbUaU.yczHbdcU.X.y.IQ.m3u8.970331a0a0f17812066b35977e588003bfc46692258f0df5433f42ae1580799a/GwiixD8qoSSKsX/AcZJBelQ94PrwF/32617/52ddd24b776e3d3f21c54fd5d1272104/32617_7431.ts
+#EXTINF:0 CUID="8519" tvg-name="Barin Quran" group-title="Kurdish ",Barin Quran
+http://89.42.231.87:8080/hlsr/bfbfH.yycf.X.cyyUc.yczHbdcU.X.y.IQ.m3u8.e6d46037d787e86bd5421e924bfa180d4f6d1ab36e8687e0bccb5d8fbeeab777/GwiixD8qoSSKsX/AcZJBelQ94PrwF/51704/76433b52d36d812f17f75ef0e9b7a8af/51704_1116.ts
+#EXTINF:0 CUID="8519" tvg-name="Baz Quran" group-title="Kurdish ",Baz Quran
+http://89.42.231.87:8080/hlsr/bfbfH.cfazc.X.UbazU.yczHbdcU.X.y.IQ.m3u8.d8dcd20a1a6413601356424ef5a6e8008e12a8aebe43480438fce864725f32e8/GwiixD8qoSSKsX/AcZJBelQ94PrwF/32523/033db2434491ff9e9582833f378d3462/32523_7644.ts
+#EXTINF:0 CUID="8519" tvg-name="Bnar Quran" group-title="Kurdish ",Bnar Quran
+http://89.42.231.87:8080/hlsr/bfbfH.cXadH.X.UdydH.yczHbdcU.X.y.IQ.m3u8.a562cf0121f8ca893543701fdebb577dc429189beb7e6bf23f2b7053401e63e3/GwiixD8qoSSKsX/AcZJBelQ94PrwF/35815/4b07d599230247876842aacec3f48c7a/35815_476.ts
+#EXTINF:0 CUID="8519" tvg-name="Soz Quran" group-title="Kurdish ",Soz Quran
+http://89.42.231.87:8080/hlsr/bfbfH.ffzzc.X.UbHXy.yczHbdcU.X.y.IQ.m3u8.8be0f256b3062619a14c25ad55d7a8ed09f8fdb08c964062b4120ab87cda42af/GwiixD8qoSSKsX/AcZJBelQ94PrwF/33026/4bec945d14fdb1d0f860f44daa043ff8/33026_565.ts
+#EXTINF:0 CUID="8519" tvg-name="Spi Quran" group-title="Kurdish ",Spi Quran
+http://89.42.231.87:8080/hlsr/bfbfH.ybfac.X.Uddzf.yczHbdcU.X.y.IQ.m3u8.c10583a87901b945f48633194eb97fd97e59b9ef545443d34140464ba50c75f9/GwiixD8qoSSKsX/AcZJBelQ94PrwF/52021/340bfdacec5e4e841efe5c3e4bc99faa/52021_617.ts
+#EXTINF:0 CUID="8519" tvg-name="Shna Quran" group-title="Kurdish ",Shna Quran
+http://89.42.231.87:8080/hlsr/bfbfH.Ufydy.X.UdzfX.yczHbdcU.X.y.IQ.m3u8.23f342c5b8dbe4563364604d3cba6fb8bd39e5863af75795a6c7481ee75a6007/GwiixD8qoSSKsX/AcZJBelQ94PrwF/55254/7e4a74fbcf4fbe3e80dd149cabee3b71/55254_3623.ts
+#EXTINF:0 CUID="8519" tvg-name="Yaran" group-title="Kurdish ",Yaran
+http://89.42.231.87:8080/hlsr/bfbfH.Uczzb.X.UcaUy.yczHbdcU.X.y.IQ.m3u8.12c43b0d84dfccf069c1bcc7ad40123b793f190071214e92ad5dcd99998f0c83/GwiixD8qoSSKsX/AcZJBelQ94PrwF/1418/f238b7748a06292e03c035fe4a40973c/1418_3699.ts
+#EXTINF:0 CUID="8519" tvg-name="Slemani" group-title="Kurdish ",Slemani
+http://89.42.231.87:8080/hlsr/bfbfH.fbady.X.UbHUz.yczHbdcU.X.y.IQ.m3u8.9395060b66d64cb34506cdb4f5adba4cb545ed4b69a935f4434233570acd36dc/GwiixD8qoSSKsX/AcZJBelQ94PrwF/33828/7f03b4f2c9fe6318f2a1a4522eb291b7/33828_2345.ts
+#EXTINF:0 CUID="8519" tvg-name="Halabja" group-title="Kurdish ",Halabja
+http://89.42.231.87:8080/hlsr/bfbfH.cXXHX.X.Ubbfc.yczHbdcU.X.y.IQ.m3u8.7f0072a09661a1a1a688aa90c4b9927c12077a1d8976a267deb54e6f24f7b307/GwiixD8qoSSKsX/AcZJBelQ94PrwF/32773/aa89718db0e36454719e14e784a9ee1e/32773_3199.ts
+#EXTINF:0 CUID="8519" tvg-name="Raparin" group-title="Kurdish ",Raparin
+http://89.42.231.87:8080/hlsr/bfbfH.yHzUa.X.UHcHX.yczHbdcU.X.y.IQ.m3u8.ca2e4508e8d8efc63653990b4d916900ac2c6c00f4797db40eaeb246809551e7/GwiixD8qoSSKsX/AcZJBelQ94PrwF/75732/11bbdffc6890b0e89e5fa6550eefb770/75732_177.ts
+#EXTINF:0 CUID="8519" tvg-name="Pshdar" group-title="Kurdish ",Pshdar
+http://89.42.231.87:8080/hlsr/bfbfH.yyzd.X.UbbHz.yczHbdcU.X.y.IQ.m3u8.0564d88032c1dc58b0b65dcdf14c5843bac4b7a8d1f1f531fdb21149acbca751/GwiixD8qoSSKsX/AcZJBelQ94PrwF/32777/2386af4afd68942b9c5740f82145700a/32777_1626.ts
+#EXTINF:0 CUID="8519" tvg-name="Walla" group-title="Kurdish ",Walla
+http://89.42.231.87:8080/hlsr/bfbfH.fbcyc.X.UHUdU.yczHbdcU.X.y.IQ.m3u8.0367de3364244bc3b2869ff4c8f0379ce6437ed44695dc2e9a237c60730dbc2b/GwiixD8qoSSKsX/AcZJBelQ94PrwF/71893/5785990adb2975b556519c5c572195f4/71893_490.ts
+#EXTINF:0 CUID="8519" tvg-name="Rasan" group-title="Kurdish ",Rasan
+http://89.42.231.87:8080/hlsr/bfbfH.UXdfa.X.UdyfX.yczHbdcU.X.y.IQ.m3u8.f95e3c50a55a6289ba951b05919ccfc0a4d7f13f8f353f469c0c95a73ad4f83f/GwiixD8qoSSKsX/AcZJBelQ94PrwF/35298/d250e061044899dcb8e6fb837f0097d3/35298_2505.ts
+#EXTINF:0 CUID="8519" tvg-name="Bnar" group-title="Kurdish ",Bnar
+http://89.42.231.87:8080/hlsr/bfbfH.ydzyz.X.Udybz.yczHbdcU.X.y.IQ.m3u8.3b2db060bcb663dc5ff1f98645e0937124ffe921376f74270afe1dfbfae221b1/GwiixD8qoSSKsX/AcZJBelQ94PrwF/35814/1532ef72dcfe0206c1b805b000f0ce87/35814_1711.ts
+#EXTINF:0 CUID="8519" tvg-name="IMN Kurdi" group-title="Kurdish ",IMN Kurdi
+http://89.42.231.87:8080/hlsr/bfbfH.cabac.X.UdXcU.yczHbdcU.X.y.IQ.m3u8.cce05224d8023f837b9e350dc1d7291c5a4e64b865e23f1c4991f08193f8a5d6/GwiixD8qoSSKsX/AcZJBelQ94PrwF/34771/e1162ca1e874de0200e84d8b1350f353/34771_1196.ts
+#EXTINF:0 CUID="8519" tvg-name="Bask" group-title="Kurdish ",Bask
+http://89.42.231.87:8080/hlsr/bfbfH.yXdby.X.UdcbH.yczHbdcU.X.y.IQ.m3u8.200147cab9d0bb5f3cef17d6579b8da83f8cdb1daf9e83a29429756cee991830/GwiixD8qoSSKsX/AcZJBelQ94PrwF/46226/0e4598df18aa8aef43318777c6d95d62/46226_7451.ts
+#EXTINF:0 CUID="8519" tvg-name="Bask Plus" group-title="Kurdish ",Bask PLus
+http://89.42.231.87:8080/hlsr/bfbfH.aUazb.X.ccHyX.yczHbdcU.X.y.IQ.m3u8.00d2348008b26eff68b53951c3d4910582f1eb762abb61f1567270f1749b8338/GwiixD8qoSSKsX/AcZJBelQ94PrwF/76659/4b059b2ac1fe5c349e11e328aa1c3ebe/76659_1951.ts
+#EXTINF:0 CUID="8519" tvg-name="Azadi" group-title="Kurdish ",Azadi
+http://89.42.231.87:8080/hlsr/bfbfH.yUUbz.X.affH.yczHbdcU.X.y.IQ.m3u8.33158465b9e5d34bfbed13c5f9573b798dbc436fe3bd6cd2950367061cf47628/GwiixD8qoSSKsX/AcZJBelQ94PrwF/32781/90991774852fed3790c85b87ef29338e/32781_1664.ts
+#EXTINF:0 CUID="8519" tvg-name="Avar" group-title="Kurdish ",Avar
+http://89.42.231.87:8080/hlsr/bfbfH.yHafc.X.UdaXd.yczHbdcU.X.y.IQ.m3u8.05bc80d6502c690528ce3b4e0d982405c1bfa483f96268d787f1336695227165/GwiixD8qoSSKsX/AcZJBelQ94PrwF/35820/53cbe5c71b3504104313dc480ddf572e/35820_3712.ts
+#EXTINF:0 CUID="8519" tvg-name="TRT Kurdi" group-title="Kurdish ",TRT Kurdi
+http://89.42.231.87:8080/hlsr/bfbfH.ccbca.X.fUyHf.yczHbdcU.X.y.IQ.m3u8.b0fde9141156979da778f73bfee2e90bb823419879b4b7b5020cd80d3230ddf9/GwiixD8qoSSKsX/AcZJBelQ94PrwF/28843/d0207fbab1fcf7e9493108bd57cac35b/28843_8868.ts
+#EXTINF:0 CUID="8519" tvg-name="Sahar" group-title="Kurdish ",Sahar
+http://89.42.231.87:8080/hlsr/bfbfH.ydbXb.X.UcUfX.yczHbdcU.X.y.IQ.m3u8.d953df8e163dc0878beb1531988c3f99ca423ab2aa5fdd42a5a94e7394964f65/GwiixD8qoSSKsX/AcZJBelQ94PrwF/1437/f556dc17aa345f42f1cd3162245b69f3/1437_1915.ts
+#EXTINF:0 CUID="8519" tvg-name="Sterk" group-title="Kurdish ",Sterk
+http://89.42.231.87:8080/hlsr/bfbfH.fUUbf.X.UcHXy.yczHbdcU.X.y.IQ.m3u8.75ba0a57ca2e7b245d9b3d66a79eb24bf2fea0037a3a4b531aa2c32c57ab90f1/GwiixD8qoSSKsX/AcZJBelQ94PrwF/28776/f5a45148c181f0161a02a0bbc9a0e0b4/28776_8935.ts
+#EXTINF:0 CUID="8519" tvg-name="Komalla" group-title="Kurdish ",Komalla
+http://89.42.231.87:8080/hlsr/bfbfH.fUbdU.X.Uddfy.yczHbdcU.X.y.IQ.m3u8.d0354d9e825ae6e0e6f2ae5eb24d192dd76b5ef454a183049e997f40e4998b47/GwiixD8qoSSKsX/AcZJBelQ94PrwF/51691/6c9cea662ca0b601f23f61a01a59f4f9/51691_8517.ts
+#EXTINF:0 CUID="8519" tvg-name="Kurd Channel" group-title="Kurdish ",Kurd Channel
+http://89.42.231.87:8080/hlsr/bfbfH.fcHfa.X.UbUXX.yczHbdcU.X.y.IQ.m3u8.9ddcdacce1c4aab233e3c4ab47ff0376ee2535d91d4f16f02a726fde2f0e768d/GwiixD8qoSSKsX/AcZJBelQ94PrwF/32565/9b12cf702c088dd5335d4651b295ab55/32565_8914.ts
+#EXTINF:0 CUID="8519" tvg-name="Aryan" group-title="Kurdish ",Aryan
+http://89.42.231.87:8080/hlsr/bfbfH.aUdXb.X.UbcHb.yczHbdcU.X.y.IQ.m3u8.c5e0561822034452942ae3db6277b2fd5e14ffc7a89b74c75095f6e0977d42f0/GwiixD8qoSSKsX/AcZJBelQ94PrwF/32739/6e18c9033e208f68537096b283ca967c/32739_9506.ts
+#EXTINF:0 CUID="8519" tvg-name="Cira" group-title="Kurdish ",Cira
+http://89.42.231.87:8080/hlsr/bfbfH.yHzbd.X.UdbHU.yczHbdcU.X.y.IQ.m3u8.03338f0b2afb77d0eb21c065c25927f303b319514d589d137036372c22602b31/GwiixD8qoSSKsX/AcZJBelQ94PrwF/46234/61ae3fd07c14a8fa5ad5068c1ce00d74/46234_7931.ts
+#EXTINF:0 CUID="8519" tvg-name="MMN Turkey" group-title="Kurdish ",MMN Turkey
+http://89.42.231.87:8080/hlsr/bfbfH.ddbz.X.Ubyzc.yczHbdcU.X.y.IQ.m3u8.93a0e6ea3a127e1cabcd6b471b61461743256a582c3fa3d4a30137280830ed30/GwiixD8qoSSKsX/AcZJBelQ94PrwF/32518/3600bebcccd6f8a93d679d3ba2a5b7a3/32518_7112.ts
+#EXTINF:0 CUID="8519" tvg-name="Qallat" group-title="Kurdish ",Qallat
+http://89.42.231.87:8080/hlsr/bfbfH.UUzaa.X.UbXdz.yczHbdcU.X.y.IQ.m3u8.73a68dbaac5dc97199b208e3df308b9953a268de06fd31d80f7a9af0145cc143/GwiixD8qoSSKsX/AcZJBelQ94PrwF/28839/ecc6dc15a049005683dc04bdaca8ca2c/28839_3506.ts
+#EXTINF:0 CUID="8519" tvg-name="Darwaza" group-title="Kurdish ",Darwaza
+http://89.42.231.87:8080/hlsr/bfbfH.UfHyX.X.bXcUU.yczHbdcU.X.y.IQ.m3u8.0e2d5e029a9ce4df192dab9517e3919aaa08de98c56aecd92abfaa30329308f7/GwiixD8qoSSKsX/AcZJBelQ94PrwF/55239/46c863e7d38a025d6a3957eff4cf7b9a/55239_2968.ts
+#EXTINF:0 CUID="8519" tvg-name="Derin" group-title="Kurdish ",Derin
+http://89.42.231.87:8080/hlsr/bfbfH.cUdXc.X.afydc.yczHbdcU.X.y.IQ.m3u8.2b1a52336ffa53891075ea50b64ea069fbf70fef7f9fe45c6057b14f341943be/GwiixD8qoSSKsX/AcZJBelQ94PrwF/34434/34f482562bfb7474a523e47d594aecdd/34434_2071.ts
+#EXTINF:0 CUID="8519" tvg-name="Eurokurd" group-title="Kurdish ",Eurokurd
+http://89.42.231.87:8080/hlsr/bfbfH.fUfXb.X.Ubzyy.yczHbdcU.X.y.IQ.m3u8.4796cd9113ba4da94c1f284c85ce03bbe4f3d01587a00aee66b17115da689add/GwiixD8qoSSKsX/AcZJBelQ94PrwF/34424/284eb16ffed6115c5511e302efb2c6a4/34424_7334.ts
+#EXTINF:0 CUID="8519" tvg-name="Hormzyar" group-title="Kurdish ",Hormzyar
+http://89.42.231.87:8080/hlsr/bfbfH.cyayz.X.Udczc.yczHbdcU.X.y.IQ.m3u8.882bc9ad9f65916cb1c0bbc73f3d1d04ebb5ef857d1919843e7a924bd2a510b9/GwiixD8qoSSKsX/AcZJBelQ94PrwF/46228/49e3e828b4ad0aba80b20d474f39e075/46228_3606.ts
+#EXTINF:0 CUID="8519" tvg-name="Kurdana" group-title="Kurdish ",Kurdana
+http://89.42.231.87:8080/hlsr/bfbfH.yfbf.X.UdfUH.yczHbdcU.X.y.IQ.m3u8.ff3be865b147b24bddabc0786ee33515e4aa40a49bc1c305d670299273ee0242/GwiixD8qoSSKsX/AcZJBelQ94PrwF/43335/7ac4d84668fbe2965ade0c22d2e4d9b4/43335_2363.ts
+#EXTINF:0 CUID="8519" tvg-name="Soz" group-title="Kurdish ",Soz
+http://89.42.231.87:8080/hlsr/bfbfH.czHXf.X.fbyXU.yczHbdcU.X.y.IQ.m3u8.e7d0f46c79393f4412595070c7ded2f349af096d64fde497b59d253d036837bc/GwiixD8qoSSKsX/AcZJBelQ94PrwF/28830/40f6cee4c04d5460201f0696b20d364c/28830_3615.ts
+#EXTINF:0 CUID="8519" tvg-name="Znar" group-title="Kurdish ",Znar
+http://89.42.231.87:8080/hlsr/bfbfH.aafdX.X.UcaaU.yczHbdcU.X.y.IQ.m3u8.aabdd9012e04aee9b970cd5b31b4816307f47cadfcc1ca7fb7f4c1b4630a2601/GwiixD8qoSSKsX/AcZJBelQ94PrwF/1416/980c94795866344bb6b2da8aa87a4788/1416_1111.ts
+#EXTINF:0 CUID="8519" tvg-name="Esta" group-title="Kurdish ",Esta
+http://89.42.231.87:8080/hlsr/bfbfH.addaz.X.UdUzc.yczHbdcU.X.y.IQ.m3u8.e71c370aaef8abf49ebea3dd8365974f536b15e27a647842ad919a3be6472c61/GwiixD8qoSSKsX/AcZJBelQ94PrwF/45478/cf8e837f226f5738c58cf15c08b2d445/45478_1613.ts
+#EXTINF:0 CUID="8519" tvg-name="Reng" group-title="Kurdish ",Reng
+http://89.42.231.87:8080/hlsr/bfbfH.cabfc.X.Ucdff.yczHbdcU.X.y.IQ.m3u8.98a14dc290364b20e5264570828787733920401f3486c0007bfa4a45ee80b66e/GwiixD8qoSSKsX/AcZJBelQ94PrwF/9801/5d19b0da95f32c1d8e8f579ce2ac31b8/9801_2897.ts
+#EXTINF:0 CUID="8519" tvg-name="Barin Family" group-title="Kurdish ",Barin Family
+http://89.42.231.87:8080/hlsr/bfbfH.dcyz.X.Udyca.yczHbdcU.X.y.IQ.m3u8.d645c4f8213a5992ececc051651980309046b69ddc4cf09a40f833c2a2a05257/GwiixD8qoSSKsX/AcZJBelQ94PrwF/35812/66e8664b5ee7d21a221a59bc63adbd3f/35812_3861.ts
+#EXTINF:0 CUID="8519" tvg-name="Niga Family" group-title="Kurdish ",Niga Family
+http://89.42.231.87:8080/hlsr/bfbfH.UcaXd.X.Ucbab.yczHbdcU.X.y.IQ.m3u8.49709ad893e6040299e84a02aadd465cb9c735b0ad7e6df91222f6f341030539/GwiixD8qoSSKsX/AcZJBelQ94PrwF/1629/cafc86965784c4e6dbea66b951192386/1629_2893.ts
+#EXTINF:0 CUID="8519" tvg-name="Aro Family" group-title="Kurdish ",Aro Family
+http://89.42.231.87:8080/hlsr/bfbfH.cXczz.X.Ucdcy.yczHbdcU.X.y.IQ.m3u8.54649635851f874f73cbcb53e54711cec9d7e3a70610902bef3f906cc5d05b10/GwiixD8qoSSKsX/AcZJBelQ94PrwF/9805/c32049527c67ec5f343adebe5ac16ddd/9805_333.ts
+#EXTINF:0 CUID="8519" tvg-name="Astera Family" group-title="Kurdish ",Astera Family
+http://89.42.231.87:8080/hlsr/bfbfH.adHHb.X.UccdH.yczHbdcU.X.y.IQ.m3u8.ea071416a43346d2d91103016fc5e4ea977b2e755f0bcdfae7edbcb41250e024/GwiixD8qoSSKsX/AcZJBelQ94PrwF/1625/de3e45f1f209126e6189294582c5d0c4/1625_1339.ts
+#EXTINF:0 CUID="8519" tvg-name="Astera Culture" group-title="Kurdish ",Astera Culture
+http://89.42.231.87:8080/hlsr/bfbfH.Ufydb.X.aHaUX.yczHbdcU.X.y.IQ.m3u8.013f7667d512f8a5c1373053c65ee29d6e514a9aaa3679c43105b2337813f928/GwiixD8qoSSKsX/AcZJBelQ94PrwF/1620/6593495e4ee6e40e348834f16a9f7d57/1620_8706.ts
+#EXTINF:0 CUID="8519" tvg-name="Astera Shows" group-title="Kurdish ",Astera Shows
+http://89.42.231.87:8080/hlsr/bfbfH.fUdUH.X.UHazc.yczHbdcU.X.y.IQ.m3u8.9945a0a7fe13fe696f31bbb86eb236d876556888e7868d2a3b93ea84281b1ccf/GwiixD8qoSSKsX/AcZJBelQ94PrwF/70833/ed8f34582add237c2626d784873b9302/70833_8026.ts
+#EXTINF:0 CUID="8519" tvg-name="Astera Documentary" group-title="Kurdish ",Astera Documentary
+http://89.42.231.87:8080/hlsr/bfbfH.bfdbU.X.UccfX.yczHbdcU.X.y.IQ.m3u8.a069486c65ac4a2cf30b9ebf2ce85dcb719ce9696467eb0b012350b9ddfa468a/GwiixD8qoSSKsX/AcZJBelQ94PrwF/1622/960d1fdb6cec9773d5ecaab9d1e6ec6f/1622_246.ts
+#EXTINF:0 CUID="8519" tvg-name="Reng Documentary" group-title="Kurdish ",Reng Documentary
+http://89.42.231.87:8080/hlsr/bfbfH.bXUzU.X.cUHXc.yczHbdcU.X.y.IQ.m3u8.f4449d3b7a65181738a186e08baca59815f13a2c45a4403a0eeb9e9fcf834e1a/GwiixD8qoSSKsX/AcZJBelQ94PrwF/70839/32176c49133cb245c4b4f97af0265e35/70839_239.ts
+#EXTINF:0 CUID="8519" tvg-name="Qallam Documentary" group-title="Kurdish ",Qallam Documentary
+http://89.42.231.87:8080/hlsr/bfbfH.aXXbc.X.aHcac.yczHbdcU.X.y.IQ.m3u8.c379341dba7ccfd5b801660d231ef95d31d54f2aad05bd48f0c41dc3cb71e36b/GwiixD8qoSSKsX/AcZJBelQ94PrwF/32521/a451929f1ad2434fc32962f5d04a74ee/32521_607.ts
+#EXTINF:0 CUID="8519" tvg-name="Animal Box" group-title="Kurdish ",Animal Box
+http://89.42.231.87:8080/hlsr/bfbfH.caadf.X.Ubfbz.yczHbdcU.X.y.IQ.m3u8.6d1d119223c95b7fad1e0da2c46ab0fc5087d66df1504bc280b9f2c2b977b720/GwiixD8qoSSKsX/AcZJBelQ94PrwF/32560/6eea18be28aa6bc1bfff8f1ed9e2d39f/32560_13.ts
+#EXTINF:0 CUID="8519" tvg-name="Kanal 21" group-title="Kurdish ",Kanal 21
+http://89.42.231.87:8080/hlsr/bfbfH.cUaUd.X.UdUfy.yczHbdcU.X.y.IQ.m3u8.78ede922d63950a7b1ce2b95ebf437eff20cfe00c53607ab0c42d43baea9c107/GwiixD8qoSSKsX/AcZJBelQ94PrwF/44815/043bf7ca281bf1cd06db826ba2244197/44815_22.ts
+#EXTINF:0 CUID="8519" tvg-name="RED" group-title="Kurdish ",RED
+http://89.42.231.87:8080/hlsr/bfbfH.ycdaa.X.UddXH.yczHbdcU.X.y.IQ.m3u8.16314d087735a50caf456692872027419f6a7949c8872712dfc5a021a70577e0/GwiixD8qoSSKsX/AcZJBelQ94PrwF/48434/ee6ef22d3ff28f0df038bc4cd5f9ef0c/48434_5433.ts
+#EXTINF:0 CUID="8519" tvg-name="Kurdcinema" group-title="Kurdish ",Kurdcinema
+http://89.42.231.87:8080/hlsr/bfbfH.cabby.X.yHXbd.yczHbdcU.X.y.IQ.m3u8.dc4055f4d1c1cbe2e60360816f270b242c37b8a1f238257c1016b246d8e326e7/GwiixD8qoSSKsX/AcZJBelQ94PrwF/71646/a265ed0707896b183f51953db548e06f/71646_3385.ts
+#EXTINF:0 CUID="8519" tvg-name="Kurdmovie" group-title="Kurdish ",Kurdmovie
+http://89.42.231.87:8080/hlsr/bfbfH.yXdzX.X.Ubbab.yczHbdcU.X.y.IQ.m3u8.4099f702abfec9629349495a42e07762cc7e63f40be99c4b2d68dc56fe5f533e/GwiixD8qoSSKsX/AcZJBelQ94PrwF/32772/a3d3071b20e2e36802d5e348e6b9b064/32772_1383.ts
+#EXTINF:0 CUID="8519" tvg-name="Barin Action" group-title="Kurdish ",Barin Action
+http://89.42.231.87:8080/hlsr/bfbfH.bffXU.X.UcfyX.yczHbdcU.X.y.IQ.m3u8.57c1b6008943070dd1ea39ef3f6a8de6ee7935d284df36c0d1dc88a88d459819/GwiixD8qoSSKsX/AcZJBelQ94PrwF/1426/eba96e05b27f651493cea7fe0ce8ed38/1426_2895.ts
+#EXTINF:0 CUID="8519" tvg-name="Bnar Action" group-title="Kurdish ",Bnar Action
+http://89.42.231.87:8080/hlsr/bfbfH.cbffz.X.UdycH.yczHbdcU.X.y.IQ.m3u8.61a7512b927b2ef743dac01fd537b68ca4037978b0f517cf828dd198c823db9b/GwiixD8qoSSKsX/AcZJBelQ94PrwF/35813/b92d93c5d06347cc3eb4e1f1599b0c47/35813_3197.ts
+#EXTINF:0 CUID="8519" tvg-name="Niga Movies" group-title="Kurdish ",Niga Movies
+http://89.42.231.87:8080/hlsr/bfbfH.fXccz.X.UcbXX.yczHbdcU.X.y.IQ.m3u8.8076009c514a82a6f2bb8bd5bf4fd3202ac5a2e95cb74a5b8aac90393e4d83d2/GwiixD8qoSSKsX/AcZJBelQ94PrwF/1627/9fdb8704f2123244d8d6a23f382fdfa1/1627_2897.ts
+#EXTINF:0 CUID="8519" tvg-name="Astera Movies" group-title="Kurdish ",Astera Movies
+http://89.42.231.87:8080/hlsr/bfbfH.fXXHa.X.UHadH.yczHbdcU.X.y.IQ.m3u8.79ea0338c8e6410d67d118bae45a0aa0400f717312a904cea26b75db6136533e/GwiixD8qoSSKsX/AcZJBelQ94PrwF/70832/6372444d3b8109b531dbae9b89200671/70832_292.ts
+#EXTINF:0 CUID="8519" tvg-name="Barin Movies" group-title="Kurdish ",Barin Movies
+http://89.42.231.87:8080/hlsr/bfbfH.fUfac.X.Ubffb.yczHbdcU.X.y.IQ.m3u8.fc106429c0d73e0fcdf7723d197de07832f985f20eb37f97d0b75727511cb94c/GwiixD8qoSSKsX/AcZJBelQ94PrwF/32525/e30560dc2b281e99e29e9b2e84fae887/32525_440.ts
+#EXTINF:0 CUID="8519" tvg-name="Newline 1" group-title="Kurdish ",Newline 1
+http://89.42.231.87:8080/hlsr/bfbfH.zUHc.X.UcUbH.yczHbdcU.X.y.IQ.m3u8.c9360d44914d5ced902fe1917cd7fc3c2cd9a96560efcbbddeb7fab1426308c5/GwiixD8qoSSKsX/AcZJBelQ94PrwF/1617/ba2d4efa369b88769319d40f98b8cb0c/1617_7159.ts
+#EXTINF:0 CUID="8519" tvg-name="Newline 2" group-title="Kurdish ",Newline 2
+http://89.42.231.87:8080/hlsr/bfbfH.bUHXb.X.UcUzc.yczHbdcU.X.y.IQ.m3u8.3f6acb21fee9f463d8890eed86569b2c478082bd9bf035221547433f0018c328/GwiixD8qoSSKsX/AcZJBelQ94PrwF/1618/e573e34846d0ef200c76becc9b99814d/1618_1562.ts
+#EXTINF:0 CUID="8519" tvg-name="Newline Movie" group-title="Kurdish ",Newline Movie
+http://89.42.231.87:8080/hlsr/bfbfH.UXzyy.X.UcHbc.yczHbdcU.X.y.IQ.m3u8.5e1b33e742a02295693f123879c344b58b705d0c48cd9758fcb27cda0c8a224b/GwiixD8qoSSKsX/AcZJBelQ94PrwF/28819/d60d4c69782447906b6c61c45d386ec8/28819_2780.ts
+#EXTINF:0 CUID="8519" tvg-name="Newline Drama" group-title="Kurdish ",Newline Drama
+http://89.42.231.87:8080/hlsr/bfbfH.cdaac.X.Ubzcy.yczHbdcU.X.y.IQ.m3u8.b9c822eb6f461343daa3af21fe3e1332f876e8b162e7ae4955c541ece4286445/GwiixD8qoSSKsX/AcZJBelQ94PrwF/34426/28aefb3b69a9cb595b899bbcfa65f9c8/34426_7966.ts
+#EXTINF:0 CUID="8519" tvg-name="Newline Bollywood" group-title="Kurdish ",Newline Bollywood
+http://89.42.231.87:8080/hlsr/bfbfH.UXcba.X.UcfUU.yczHbdcU.X.y.IQ.m3u8.fd991816e1f40cdac755e392a7028182ab0ae46d708ba4efa8aa2839d96bb350/GwiixD8qoSSKsX/AcZJBelQ94PrwF/1430/1cb98fef6f5af2a01f369f8fc74b02ea/1430_2783.ts
+#EXTINF:0 CUID="8519" tvg-name="MMN Show" group-title="Kurdish ",MMN Show
+http://89.42.231.87:8080/hlsr/bfbfH.cXHaH.X.Ubyay.yczHbdcU.X.y.IQ.m3u8.ba3b3eea48e3824f7cf1ce551d9a4bb4b7291139dc0a54fdfe35be8dfe098c07/GwiixD8qoSSKsX/AcZJBelQ94PrwF/32513/c6ed4d38308d08cc1b938ddfb104035a/32513_7642.ts
+#EXTINF:0 CUID="8519" tvg-name="MMN Action" group-title="Kurdish ",MMN Action
+http://89.42.231.87:8080/hlsr/bfbfH.Uzfyb.X.UdzXz.yczHbdcU.X.y.IQ.m3u8.d023498ab53ffe899853fc1d17500884ed9d69dda4ce887c3251aa72dd48dfc4/GwiixD8qoSSKsX/AcZJBelQ94PrwF/55240/a95216c3d617d52dc6d7552eb3c7ccc8/55240_2899.ts
+#EXTINF:0 CUID="8519" tvg-name="MMN Movies" group-title="Kurdish ",MMN Movies
+http://89.42.231.87:8080/hlsr/bfbfH.yXbyc.X.Ubybf.yczHbdcU.X.y.IQ.m3u8.c8d04e910f25f28062128f63b4916b021bee64a5064be200dcc9b975efd7f5ef/GwiixD8qoSSKsX/AcZJBelQ94PrwF/32515/c3345db996eb535ed4b22dc1af2a570c/32515_7604.ts
+#EXTINF:0 CUID="8519" tvg-name="NRT Sport" group-title="Kurdish ",NRT Sport
+http://89.42.231.87:8080/hlsr/bfbfH.Ubfaz.X.UHfUc.yczHbdcU.X.y.IQ.m3u8.79679f8dff6bce56acf52506ea60a2f8ddf0a0e77b97a8c3d23a8384b54fadf8/GwiixD8qoSSKsX/AcZJBelQ94PrwF/70836/20ec6b771658d3709f95a7f620f16d38/70836_7881.ts
+#EXTINF:0 CUID="8519" tvg-name="AVA Sport" group-title="Kurdish ",AVA Sport
+http://89.42.231.87:8080/hlsr/bfbfH.UUUX.X.UHfbz.yczHbdcU.X.y.IQ.m3u8.846a0c98c648be07d7dd7698b76c5a86999f63c77c4ce4ba6356f6a58fca0b43/GwiixD8qoSSKsX/AcZJBelQ94PrwF/70838/712933d14670e3cd40669637c962f743/70838_8099.ts
+#EXTINF:0 CUID="8519" tvg-name="Astera Sport" group-title="Kurdish ",Astera Sport
+http://89.42.231.87:8080/hlsr/bfbfH.bfUdc.X.UcXcU.yczHbdcU.X.y.IQ.m3u8.09fcaa532f4b445f62c2f2422bf090a8bb977db9580d1f1153b0c58783e7c353/GwiixD8qoSSKsX/AcZJBelQ94PrwF/1373/115fa997c7d1c36a7b702144a0a18730/1373_266.ts
+#EXTINF:0 CUID="8519" tvg-name="LD Sport" group-title="Kurdish ",LD Sport
+http://89.42.231.87:8080/hlsr/bfbfH.yHdUb.X.UdyUb.yczHbdcU.X.y.IQ.m3u8.0732fe20c62aa7958568d8117aa663ab629c19c4fe2fa57ccb0d97db33f4b98b/GwiixD8qoSSKsX/AcZJBelQ94PrwF/35306/1827d1fd42e799fbad15e838f8dfd8b5/35306_2909.ts
+#EXTINF:0 CUID="8519" tvg-name="Newline Sport" group-title="Kurdish ",Newline Sport
+http://89.42.231.87:8080/hlsr/bfbfH.fdXUz.X.yzfUa.yczHbdcU.X.y.IQ.m3u8.9e3630e3b039e1ba46a3c4ab5680aec52fb00dbb6624482892e30a2ebd8796a0/GwiixD8qoSSKsX/AcZJBelQ94PrwF/28820/83108645f87d8063372a68a1ad6b56e0/28820_8041.ts
+#EXTINF:0 CUID="8519" tvg-name="Aro Sport" group-title="Kurdish ",Aro Sport
+http://89.42.231.87:8080/hlsr/bfbfH.UyHU.X.ycfyb.yczHbdcU.X.y.IQ.m3u8.f5351ba9d0040d21d4462f434b6162178f7b88f4b0b4e79de866a4e785b35840/GwiixD8qoSSKsX/AcZJBelQ94PrwF/32782/5c57a429cb4f252df6da6d75804b03ab/32782_7894.ts
+#EXTINF:0 CUID="8519" tvg-name="MMN Sport" group-title="Kurdish ",MMN Sport
+http://89.42.231.87:8080/hlsr/bfbfH.zfdd.X.UcycH.yczHbdcU.X.y.IQ.m3u8.db454a087a27ee88435e7cb9caabcf98a0f3c6c9fd21437066ca0f6af5b8798d/GwiixD8qoSSKsX/AcZJBelQ94PrwF/1402/63205468053eba0e69f8aba24e3d049e/1402_7592.ts
+#EXTINF:0 CUID="8519" tvg-name="Qallam Sport" group-title="Kurdish ",Qallam Sport
+http://89.42.231.87:8080/hlsr/bfbfH.yHbbf.X.Ubabc.yczHbdcU.X.y.IQ.m3u8.8552772e6fbd3e85632b57410e70af4a4035b0183557fc60c4348c0775984b26/GwiixD8qoSSKsX/AcZJBelQ94PrwF/32522/0fd37671fd57a6d6f6db0462dd799a90/32522_1046.ts
+#EXTINF:0 CUID="8519" tvg-name="Dasinya Sport" group-title="Kurdish ",Dasinya Sport
+http://89.42.231.87:8080/hlsr/bfbfH.baUzz.X.UdfyU.yczHbdcU.X.y.IQ.m3u8.e20261889b39705979472be024559b6d82c45b49633e1cba9a60593df507761b/GwiixD8qoSSKsX/AcZJBelQ94PrwF/41708/e17d31403c90bacf4f25aee688dc8344/41708_720.ts
+#EXTINF:0 CUID="8519" tvg-name="See Sport" group-title="Kurdish ",See Sport
+http://89.42.231.87:8080/hlsr/bfbfH.yfXX.X.UcyHz.yczHbdcU.X.y.IQ.m3u8.306d67b38d501a0f741fc90e6f3cfb5fb3599f03e390593c5775d1f60d67dc3f/GwiixD8qoSSKsX/AcZJBelQ94PrwF/1404/7731b30e49bb3b7f01969df2e1cf174d/1404_6205.ts
+#EXTINF:0 CUID="8519" tvg-name="NRT 3" group-title="Kurdish ",NRT 3
+http://89.42.231.87:8080/hlsr/bfbfH.bXdUb.X.Ucydc.yczHbdcU.X.y.IQ.m3u8.bdb07f66df78449099f7d64f7fb3e1da7e2fdfc3b5d7b8e6051cdb2a0e210ef4/GwiixD8qoSSKsX/AcZJBelQ94PrwF/1616/b559b6c3081ee4eefd8841bc28a373f6/1616_1522.ts
+#EXTINF:0 CUID="8519" tvg-name="Dimen" group-title="Kurdish ",Dimen
+http://89.42.231.87:8080/hlsr/bfbfH.cyHaa.X.adzyz.yczHbdcU.X.y.IQ.m3u8.7d50cc611cc6903c453f4b38d86d7ac4d1a618901308369823d4385ae8d01eb5/GwiixD8qoSSKsX/AcZJBelQ94PrwF/9800/c4b5cd74f988d9961a5b78636d13017b/9800_3289.ts
+#EXTINF:0 CUID="8519" tvg-name="Gem Kids" group-title="Kurdish ",Gem Kids
+http://89.42.231.87:8080/hlsr/bfbfH.UHyzH.X.UbXfU.yczHbdcU.X.y.IQ.m3u8.a6dfe5cb18ed4be70db9e30aa655e25829ca64d8b99071d4c9043b0ee8e42859/GwiixD8qoSSKsX/AcZJBelQ94PrwF/28836/bf67d82b0a265ee8d10a3798eaead9d3/28836_860.ts
+#EXTINF:0 CUID="8519" tvg-name="Dasinya Kids" group-title="Kurdish ",Dasinya Kids
+http://89.42.231.87:8080/hlsr/bfbfH.UccHX.X.ycaUy.yczHbdcU.X.y.IQ.m3u8.50a83bc2be407fed8f5df83c57492b44ff6d9de75d61ae25f6e7dae305ffdbf8/GwiixD8qoSSKsX/AcZJBelQ94PrwF/9796/c7be9ed39741e0c6ee86c3e968595f57/9796_6131.ts
+#EXTINF:0 CUID="8519" tvg-name="Niga Kids" group-title="Kurdish ",Niga Kids
+http://89.42.231.87:8080/hlsr/bfbfH.fcUUa.X.Ucbya.yczHbdcU.X.y.IQ.m3u8.5eb06c31b1abecb26a37afffcd9b4c8e32bd55960ce0ca17a3173eeae417dcd7/GwiixD8qoSSKsX/AcZJBelQ94PrwF/1628/bf738c2b070603ebd6993cdf49337a2d/1628_7796.ts
+#EXTINF:0 CUID="8519" tvg-name="Reng Kids" group-title="Kurdish ",Reng Kids
+http://89.42.231.87:8080/hlsr/bfbfH.yUcbU.X.UdUdU.yczHbdcU.X.y.IQ.m3u8.29ce788254d8e87403ec1294b13fd59b8d4b1f3ce6028536f807244a8f76d4fa/GwiixD8qoSSKsX/AcZJBelQ94PrwF/45477/c542df620ed434b2e717a365a95850f3/45477_2886.ts
+#EXTINF:0 CUID="8519" tvg-name="Newline Kid" group-title="Kurdish ",Newline Kid
+http://89.42.231.87:8080/hlsr/bfbfH.fXcXX.X.UHffX.yczHbdcU.X.y.IQ.m3u8.49ca1d41dbbc153bda0b7b435a3d6322d73c0508322f424d7cb32ddc3c40cb43/GwiixD8qoSSKsX/AcZJBelQ94PrwF/70835/2444e2a53dc599e37effe61e93a7eac7/70835_208.ts
+#EXTINF:0 CUID="8519" tvg-name="Spi Kids" group-title="Kurdish ",Spi Kids
+http://89.42.231.87:8080/hlsr/bfbfH.UaydU.X.UHXXf.yczHbdcU.X.y.IQ.m3u8.78e8c5b977798e5819a6c77e508b487e95a3c0fc8aefbb404e37e2a0436dc02d/GwiixD8qoSSKsX/AcZJBelQ94PrwF/57102/ad4b530f717ed5d9ba9e81675b1477f7/57102_452.ts
+#EXTINF:0 CUID="8519" tvg-name="MTV Kids" group-title="Kurdish ",MTV Kids
+http://89.42.231.87:8080/hlsr/bfbfH.yyfcc.X.cyUac.yczHbdcU.X.y.IQ.m3u8.aac96c4266ea3eb9f3b1cbcb3d4539b072c02b8824cc45c085efc24953979e64/GwiixD8qoSSKsX/AcZJBelQ94PrwF/35816/d611ee964094fa0636d341e2c3ae8d1d/35816_4291.ts
+#EXTINF:0 CUID="8519" tvg-name="Kidco" group-title="Kurdish ",Kidco
+http://89.42.231.87:8080/hlsr/bfbfH.cUfHy.X.Ubczf.yczHbdcU.X.y.IQ.m3u8.56653efd9b857f5a7b63a125bb1c88f0290aac664fcf297ffafe2cb32d519ebe/GwiixD8qoSSKsX/AcZJBelQ94PrwF/32740/21989acc4328996be4a7e536a13af469/32740_7433.ts
+#EXTINF:0 CUID="8519" tvg-name="Zaro" group-title="Kurdish ",Zaro
+http://89.42.231.87:8080/hlsr/bfbfH.cXfbU.X.UcHac.yczHbdcU.X.y.IQ.m3u8.0a80ca7cd666e22890686b2b9b53546cd776ffc819ff6769496edd60b703754d/GwiixD8qoSSKsX/AcZJBelQ94PrwF/28778/68533f3e3b6c79e413076a01706e4ac2/28778_3710.ts
+#EXTINF:0 CUID="8519" tvg-name="KurMax Papula" group-title="Kurdish ",KurMax Papula
+http://89.42.231.87:8080/hlsr/bfbfH.fcdbb.X.UcbbU.yczHbdcU.X.y.IQ.m3u8.39f89939acd86d0192458192bf2a3b288a926d20c32ea74aef411b45f36f2c72/GwiixD8qoSSKsX/AcZJBelQ94PrwF/9780/843291fb0f07d3d71477fdaa04b937e1/9780_8520.ts
+#EXTINF:0 CUID="8519" tvg-name="Afarin Baxcha" group-title="Kurdish ",Afarin Baxcha
+http://89.42.231.87:8080/hlsr/bfbfH.adUH.X.Ubzbc.yczHbdcU.X.y.IQ.m3u8.441c6c855fee6a728603699347eb7bdd5513ce5eec3efcda61416063b74ca3bd/GwiixD8qoSSKsX/AcZJBelQ94PrwF/34428/e5b70e2d982e01ffea86e11e197d17e4/34428_516.ts
+#EXTINF:0 CUID="8519" tvg-name="Afarin Kids" group-title="Kurdish ",Afarin Kids
+http://89.42.231.87:8080/hlsr/bfbfH.yfdHd.X.UUzHd.yczHbdcU.X.y.IQ.m3u8.afc91dffe0d30ed61397f5760d2f032f0de1e4e1558eba9c0645fa061f21bafa/GwiixD8qoSSKsX/AcZJBelQ94PrwF/1367/314535ca1c0c21f8b08b9bfa1b9d2d0f/1367_6382.ts
