@@ -1,5 +1,0 @@
-#EXTM3U
-#EXTINF:-1 group-title="Entertainment",AVA Media
-http://playtvip.com:8080/live/GwiixD8qoSSKsX/AcZJBelQ94PrwF/72048.m3u8
-#EXTINF:-1 group-title="News",Rudaw
-http://playtvip.com:8080/live/GwiixD8qoSSKsX/AcZJBelQ94PrwF/63288.m3u8
